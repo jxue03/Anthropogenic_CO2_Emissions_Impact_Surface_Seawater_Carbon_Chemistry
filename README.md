@@ -1,4 +1,4 @@
-Full Comprehensive Report: [Research_Report_Jiayi.Xue.pdf]  
+Comprehensive Report: [Research_Report_Jiayi.Xue.pdf]  
 MATLAB code and plots: [final_project.ipynb]  
 
 • This research project investigates the long-term impacts of rising anthropogenic CO₂ emissions on surface seawater carbon chemistry by analyzing ocean-atmosphere carbon exchange in the Pacific Ocean. Over 40 years of climate data from the Mauna Loa Observatory and the Hawaii Ocean Time-series Station (ALOHA) were processed.  
